@@ -10,3 +10,9 @@ body{
     background-color: yellowgreen;
     font-style: italic;
 }
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
