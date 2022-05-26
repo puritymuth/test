@@ -1,0 +1,18 @@
+h3{
+    color:blue;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-color: yellowgreen;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
